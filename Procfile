@@ -1,0 +1,1 @@
+web: gunicorn shoeshop.wsgi
