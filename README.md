@@ -1,5 +1,9 @@
 
-## How to install on Windows
+# Shoe Shop - ECommerce Site
+
+Welcome to the Shoe Shop, an online platform for buying and selling shoes. It features trendy sneakers, elegant heels, or comfortable sandals. It is built using Django and uses SqlLite.
+
+## How to Run?
 2. install virtualenv
 ```
 pip install virtualenv
